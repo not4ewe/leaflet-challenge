@@ -26,6 +26,6 @@ Before You Begin
 
 
 Your Task
-![previewday](/Leaflet-Step-1/images/Screenshot 2020-09-27.png)
+![previewday](/Leaflet-Step-1/images/Screenshot_2020-09-27.png)
 
-![previewmonth](/Leaflet-Step-1/images/Screenshot 2020-09.png)
+![previewmonth](/Leaflet-Step-1/images/Screenshot_2020-09.png)
