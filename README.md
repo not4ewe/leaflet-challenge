@@ -15,7 +15,7 @@ Before You Begin
 2. Clone the new repository to your computer.
 
 
-3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: Leaflet-Step-1 and Leaflet-Step-2.
+3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**.
 
 
 4. This homeworks utilizes both html and Javascript so be sure to add all the necessary files. These will be the main files to run for analysis.
