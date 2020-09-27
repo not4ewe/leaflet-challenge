@@ -58,7 +58,7 @@ d3.json(queryData, data => {
     var colors = ["Violet", "Blue","Green","Yellow","Orange","Red"]
     var labels = ['0-1','1-2','2-3','3-4','4-5','5+'];
 
-    // Add min & max
+    // Add legend
     var legendInfo = "<h2>Magnitude</h2>"
 
     div.innerHTML = legendInfo;
